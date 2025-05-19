@@ -8,7 +8,7 @@ A modern, user-friendly web application that enables citizens to submit complain
 
 ##  Live Demo
 
-[👉 [Click here to view the live app](https://your-vercel-link.vercel.app)](https://citizen-complaint-mvp.vercel.app/)  
+[Click here👉(https://your-vercel-link.vercel.app)](https://citizen-complaint-mvp.vercel.app/)  
 _Replace with your actual deployed Vercel link_
 
 ---
