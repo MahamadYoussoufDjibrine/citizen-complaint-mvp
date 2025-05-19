@@ -49,13 +49,15 @@ _Replace with your actual deployed Vercel link_
 | Deployment| Vercel                           |
 
 
+
+
 ##  Screenshots
 
 ### Citizen Complaint Home page
-![Citizen Form](public/screenshots/Homepage.png)
+![Citizen Form](public/screenshots/Homepage.png)![Homepage](https://github.com/user-attachments/assets/00d3f5f8-2f63-4ffc-b999-957a57218b13)
 
 ### Admin Dashboard
-![Admin Dashboard](public/screenshots/admindsh.png)
+![Admin Dashboard](public/screenshots/admindsh.png)![admindash](https://github.com/user-attachments/assets/15f2ef01-c0bd-49ac-aaa2-d3b7cf7809ab)
 
 ### Complaint Status Tracking
-![Tracking Page](public/screenshots/track.png)
+![Tracking Page](public/screenshots/track.png)![track](https://github.com/user-attachments/assets/b3a819e7-f566-4b71-8bc8-b1fb49f2cdd5)
